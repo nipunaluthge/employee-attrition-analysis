@@ -1,0 +1,16 @@
+setup.py
+employee_attrition_analysis.egg-info/PKG-INFO
+employee_attrition_analysis.egg-info/SOURCES.txt
+employee_attrition_analysis.egg-info/dependency_links.txt
+employee_attrition_analysis.egg-info/requires.txt
+employee_attrition_analysis.egg-info/top_level.txt
+src/__init__.py
+src/main.py
+src/data_cleaning/__init__.py
+src/data_cleaning/cleaning.py
+src/data_encoding/__init__.py
+src/data_encoding/encoding.py
+src/data_preprocessing/__init__.py
+src/data_preprocessing/preprocessing.py
+src/feature_selection/__init__.py
+src/feature_selection/feature_selection.py
