@@ -2,4 +2,7 @@ Metadata-Version: 2.2
 Name: employee-attrition-analysis
 Version: 0.1
 Requires-Dist: pandas
+Requires-Dist: xgboost
+Requires-Dist: matplotlib
+Requires-Dist: shap
 Dynamic: requires-dist
